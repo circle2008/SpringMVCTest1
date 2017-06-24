@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVCTest1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVCTest1_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringMVCTest1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVCTest1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.8.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.8.RELEASE" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.26-bin" />
+          <element id="library" level="project" name="standard" />
+          <element id="library" level="project" name="jackson-annotations-2.2.1" />
+          <element id="library" level="project" name="jackson-core-2.2.1" />
+          <element id="library" level="project" name="jackson-core-asl-1.8.8" />
+          <element id="library" level="project" name="jackson-databind-2.2.1" />
+          <element id="library" level="project" name="jackson-mapper-asl-1.8.8" />
+          <element id="library" level="project" name="jackson-module-jaxb-annotations-2.2.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
